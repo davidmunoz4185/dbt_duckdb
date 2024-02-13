@@ -1,0 +1,5 @@
+# IGNORE VIRTUAL ENV
+.env/
+
+# IGNORE DBT LOGS
+logs/
